@@ -13,7 +13,6 @@
 
 ## My Projects
 ### Project 1
-!Project 1
 **Description:** A school requirement for Web Development.
 
 
