@@ -3,13 +3,13 @@
 !Banner
 
 ## About Me
-- 🔭 I’m currently working on **You**
-- 🌱 I’m currently learning **Computer Science**
-- 👯 I’m looking to collaborate on **Mobile Game Development**
-- 🤔 I’m looking for help with **Nothing yet**
-- 💬 Ask me about **Leetcode problems**
-- 📫 How to reach me: **rejuiin.ye@gmail.com**
-- ⚡ Fun fact: **[Something Interesting]**
+- 🔭 I’m currently working on **[You]**
+- 🌱 I’m currently learning **[Computer Science]**
+- 👯 I’m looking to collaborate on **[Mobile Game Development]**
+- 🤔 I’m looking for help with **[Nothing yet]**
+- 💬 Ask me about **[Leetcode problems]**
+- 📫 How to reach me: **[rejuiin.ye@gmail.com]**
+- ⚡ Fun fact: **[I'm never gonna give you up]**
 
 ## My Projects
 ### Project 1
