@@ -17,19 +17,3 @@
 **Description:** A school requirement for Web Development.
 
 
-## Skills
-!Creative mind
-!
-
-## Connect with Me
-!LinkedIn
-!Twitter
-!GitHub
-
-## GitHub Stats
-!Lingwinee's GitHub stats
-
-## Top Languages
-!Top Languages
-
-!Footer
