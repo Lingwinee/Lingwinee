@@ -8,8 +8,8 @@
 - 👯 I’m looking to collaborate on **[Making babies with You]**
 - 🤔 I’m looking for help with **[With You]**
 - 💬 Ask me about **[You]**
-- 📫 How to reach me: **[rejuiin.ye@gmail.com]**
-- ⚡ Fun fact: **[I'm never gonna give you up]**
+- 📫 How to reach me: **[If it's You]**
+- ⚡ Fun fact: **[I Want You]**
 
 ## My Projects
 ### Project 1
